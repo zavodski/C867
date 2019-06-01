@@ -1,5 +1,8 @@
 # C867
-C++ project
+
+Gregory Zavodski / WGU / course C867 
+
+C++ project requirements.
 
 Your submission must be your original work. No more than a combined total of 30% of the submission and no more than a 10% match to any one individual source can be directly quoted or closely paraphrased from sources, even if cited correctly. An originality report is provided when you submit your task that can be used as a guide.
 
